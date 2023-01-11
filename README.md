@@ -6,7 +6,9 @@ https://github.com/coding-to-music/goodservice-v2-rails-redis-postgres-react
 
 https://goodservice-v2-rails-redis-postgres-react.vercel.app
 
-From / By 
+From / By https://github.com/blahblahblah-/goodservice-v2
+
+https://www.goodservice.io
 
 ## Environment variables:
 
