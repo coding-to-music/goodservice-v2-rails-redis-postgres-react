@@ -1,10 +1,13 @@
 {
-  "name": "goodservice-v2",
+  "name": "goodservice-v2-rails-redis-postgres-react",
   "private": true,
   "engines": {
     "node": "14.x"
   },
-  "dependencies": {
+  "scripts": {
+    "deploy": "git add . && git commit -m Build && git push",
+  },
+    "dependencies": {
     "@babel/preset-react": "^7.12.10",
     "@rails/actioncable": "^6.0.0",
     "@rails/activestorage": "^6.0.0",

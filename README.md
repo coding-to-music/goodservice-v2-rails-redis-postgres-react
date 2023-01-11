@@ -1,3 +1,31 @@
+# goodservice-v2-rails-redis-postgres-react
+
+# 🚀 New York City Subway Status Page driven by real-time feeds 🚀
+
+https://github.com/coding-to-music/goodservice-v2-rails-redis-postgres-react
+
+https://goodservice-v2-rails-redis-postgres-react.vercel.app
+
+From / By 
+
+## Environment variables:
+
+```java
+
+```
+
+## GitHub
+
+```java
+git init
+git add .
+git remote remove origin
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:coding-to-music/goodservice-v2-rails-redis-postgres-react.git
+git push -u origin main
+```
+
 # goodservice-v2
 
 This is a Rails app that generates live route maps, detects headway discrepancies, track delays and compare runtimes to the schedule on the New York City Subway system by comparing the data for live countdown clocks with the static schedule data provided by the MTA.
